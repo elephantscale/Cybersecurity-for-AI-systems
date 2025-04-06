@@ -1,2 +1,2 @@
 # Cybersecurity-for-AI-systems
-Draft of a book
+Draft of the book
